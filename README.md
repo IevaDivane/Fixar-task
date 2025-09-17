@@ -10,6 +10,8 @@ A React-based web application for managing log entries with a Node.js backend.
 - Toast notifications for success/error feedback
 - Loading indicators for all operations
 
+- Live demo https://fixar-task.vercel.app/
+
 ## Demo Images
 
 ### Main Application Interface
